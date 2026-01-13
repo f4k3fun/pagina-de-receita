@@ -3,7 +3,7 @@
 Protótipo de uma **página de receita** desenvolvido para praticar organização de conteúdo, estilização com CSS e criação de layouts focados em leitura e apresentação visual de informações gastronômicas.
 
 ## 📸 Pré-visualização
-![Preview da página de receita](Thumbnail (1).png)
+![Preview da página de receita](Thumbnail.png)
 
 > 💡 Imagem ilustrativa da página de receita com destaque para imagem, ingredientes e modo de preparo.
 
